@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "mini-css-extract-plugin": "^2.6.1"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.15.0"
+  }
+}
